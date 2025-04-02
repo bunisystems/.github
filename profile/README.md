@@ -23,8 +23,8 @@ At Buni Systems LLP, we are passionate about building robust, scalable, and user
 ## Get in Touch
 We’d love to collaborate with you! Reach out to us for your next project or to learn more about our services.
 
-- **Website**: [YourWebsite.com](https://bunisystems.com)
-- **Email**: contact@yourdomain.com
+- **Website**: [BuniSystems.com](https://bunisystems.com)
+- **Email**: info@bunisystems.com
 - **Social Media**: [LinkedIn](https://linkedin.com/company/bunisystems) | [Twitter](https://twitter.com/bunisystems)
 
 Thank you for visiting our profile. Let’s build something amazing together!
